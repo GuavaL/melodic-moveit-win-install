@@ -5,7 +5,7 @@
 - git:
     local-name: eigenpy
     uri: https://github.com/stack-of-tasks/eigenpy.git
-    version: v1.6.6
+    version: master
 - git:
     local-name: geometric_shapes
     uri: https://github.com/ros-planning/geometric_shapes.git
