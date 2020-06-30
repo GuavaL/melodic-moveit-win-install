@@ -35,10 +35,6 @@
     uri: https://github.com/ros-planning/moveit_visual_tools.git
     version: melodic-devel
 - git:
-    local-name: msft_ros_pkgs
-    uri: https://github.com/ms-iot/msft_ros_pkgs
-    version: master
-- git:
     local-name: object_recognition_msgs
     uri: https://github.com/wg-perception/object_recognition_msgs.git
     version: master
